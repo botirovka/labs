@@ -1,0 +1,3 @@
+C:/c/KDM1/cmake-build-debug/CMakeFiles/KDM1.dir
+C:/c/KDM1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/c/KDM1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
